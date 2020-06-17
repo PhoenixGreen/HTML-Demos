@@ -1,0 +1,30 @@
+body{
+	background: blue;
+}
+
+header{
+	background: red;
+	height: 200px;
+	width: 100%;
+}
+
+aside{
+	background: green;
+	min-height: 400px;
+	float: left;
+	width: 25%;
+}
+
+section{
+	background: yellow;
+	min-height: 400px;
+	float: left;
+	width: 75%;
+}
+
+footer{
+	background: orange;
+	height: 50px;
+	float: left;
+	width: 100%;
+}

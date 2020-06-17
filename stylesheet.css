@@ -1,0 +1,96 @@
+body{
+		background: #d8cd6a;
+		border: solid 20px #484d82;
+	}
+	
+	p{
+		color: blue;
+		font-size: 14pt;
+		font-family: Helvetica;
+	}
+	
+	h1{
+		color: orange;
+	}
+	
+	img{
+		width: 45%;
+		border: solid 10px red;
+		border-radius: 20px;
+	}
+	
+	a{
+		text-decoration: none;
+		color: white;
+		font-size: 18pt;
+		border: solid green 5px;
+		background: grey;
+		padding: 20px;
+		margin: 20px;
+	}
+	
+	ul{
+		background: #4c71ad;
+		list-style-type: circle;
+	}
+	
+	.ultwo{
+		background: red;
+		list-style-type: square;
+	}
+	
+	.ultwo li{
+		border: white dotted 3px;
+		padding: 10px;
+		margin: 10px;
+		font-size: 18pt;
+		color: white;
+		text-align: center;
+		
+	}
+	
+	
+	
+	ol{
+		background: rgb(206, 147, 84);
+		list-style-type: upper-alpha;
+	}
+	
+	.oltwo{
+		background: yellow;
+		list-style-type: lower-alpha;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

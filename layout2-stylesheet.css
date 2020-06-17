@@ -1,0 +1,120 @@
+body{
+	background: blue;
+}
+
+header{
+	background: red;
+	height: 200px;
+	width: 100%;
+}
+
+aside{
+	background: green;
+	min-height: 800px;
+	float: left;
+	width: 20%;
+}
+
+section{
+	background: yellow;
+	min-height: 800px;
+	float: left;
+	width: 60%;
+}
+
+footer{
+	background: orange;
+	height: 50px;
+	float: left;
+	width: 100%;
+}
+
+.quarter{
+	background: brown;
+	min-height: 400px;
+	float: left;
+	width: 25%;
+}
+
+
+article{
+	background: white;
+	width: 75%;
+	min-height: 200px;
+	padding: 5%;
+	margin: 5%;
+	border: solid red 5px;
+}
+
+nav{
+	clear: both;
+	width: 100%;
+	height: 50px;
+}
+
+nav ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background: #333;
+}
+
+nav li{
+	float: left;
+}
+
+nav li a{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+nav li a:hover:not(.active){
+	background: #111;
+}
+
+.active{
+	background: #4CAF50;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
